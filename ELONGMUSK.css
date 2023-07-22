@@ -1,0 +1,28 @@
+p {text-align: justify;}
+
+#parrafo1{font-family:sans-serif;color: rgb(191, 0, 255);}
+.parrafo2{font-family: Arial, Helvetica, sans-serif blue;}
+.parrafo3{color:white; background-color: purple;}
+.parrafo4{color: black;}
+
+h1{color: black; font-size: 50px;}
+
+#h2{color: rgb(0, 232, 15); font-size: 20px;}
+.h2{color: orange; font-size: 20px;}
+
+#h3{color: black;}
+.h3{color: white; background-color: black;}
+.mult{
+    height: 500px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+
+    A:LINK { color: lightblue;}
+    A:VISITED.enlace1 { color: greenyellow; }
+    A:active.enlace2 {color: green;}
+    A:hover.enlace3{color: orange;}
+
+    #foto:hover{background-color: blueviolet;}
+    .X:hover{background-color: rgb(212, 103, 212);}
